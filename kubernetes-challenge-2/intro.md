@@ -1,4 +1,4 @@
 
-## Challenge
+## Pod
 
-Pierwsyz chanllenge
+Tworzenie i edycja obiektów typu Pod
