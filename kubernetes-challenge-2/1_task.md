@@ -1,1 +1,1 @@
-Stworz Poda o nazwie my-pod i ustaw mu obraz na nginx w wersji 1.20
+Stwórz Poda o nazwie my-pod i ustaw mu obraz na nginx w wersji 1.20

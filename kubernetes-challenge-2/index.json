@@ -1,20 +1,28 @@
 {
   "type": "challenge@0.7",
-  "title": "Challenge Example - Kubernetes",
-  "description": "",
-  "difficulty": "Advance",
-  "time": "60 minutes",
+  "title": "Tworzenie i edycja obiektów typu Pod",
+  "time": "30 minutes",
   "details": {
     "steps": [
       {
-        "title": "Task 1 - Output env",
+        "title": "Zadanie 1",
         "text": "1_task.md",
         "verify": "1_verify.sh"
       },
       {
-        "title": "Task 2 - Extract app.js",
+        "title": "Zadanie 2",
         "text": "2_task.md",
         "verify": "2_verify.sh"
+      },
+      {
+        "title": "Zadanie 3",
+        "text": "3_task.md",
+        "verify": "3_verify.sh"
+      },
+      {
+        "title": "Zadanie 4",
+        "text": "4_task.md",
+        "verify": "4_verify.sh"
       }
     ],
     "intro": {
