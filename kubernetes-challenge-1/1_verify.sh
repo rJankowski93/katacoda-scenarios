@@ -1,1 +1,1 @@
-kubectl get pods
+$  [3 -lt 6]
