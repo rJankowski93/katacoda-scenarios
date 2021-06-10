@@ -1,1 +1,1 @@
-grep app-env -ie 'kubernetes'
+kubectl get pods
