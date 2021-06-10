@@ -1,1 +1,1 @@
-Drugi step
+Zmień wersję obrazu poprzedniego poda na 1:21

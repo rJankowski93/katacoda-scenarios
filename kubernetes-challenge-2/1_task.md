@@ -1,1 +1,1 @@
-Pierwszy step
+Stworz Poda o nazwie my-pod i ustaw mu obraz na nginx w wersji 1.20

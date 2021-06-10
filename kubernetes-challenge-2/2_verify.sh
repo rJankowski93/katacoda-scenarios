@@ -1,1 +1,1 @@
-grep /root/app.js -ie 'katacoda2'
+kubectl get pod my-pod -oyaml | grep 'image: nginx:1.21'
