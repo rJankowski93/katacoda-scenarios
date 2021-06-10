@@ -1,1 +1,1 @@
-kubectl get pods
+echo 'abc'
