@@ -8,14 +8,11 @@
     "steps": [
       {
         "title": "Task 1 - Output env",
-        "text": "1_task.md",
-        "verify": "1_verify.sh",
-        "hint": "1_hint.sh"
+        "text": "1_task.md"
       },
       {
         "title": "Task 2 - Extract app.js",
-        "text": "2_task.md",
-        "verify": "2_verify.sh"
+        "text": "2_task.md"
       }
     ],
     "intro": {
@@ -25,8 +22,6 @@
     },
     "assets": {
       "host01": [
-          {"file": "cheat", "target": "/usr/local/bin/", "chmod": "+x"},
-          {"file": "cheat2", "target": "/usr/local/bin/", "chmod": "+x"},
           {"file": "deploy.yaml", "target": "/opt/"}
       ]
     }
