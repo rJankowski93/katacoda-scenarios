@@ -1,6 +1,6 @@
 {
   "type": "challenge@0.7",
-  "title": "Challenge Example - Kubernetes2",
+  "title": "Challenge Example - Kubernetes",
   "description": "",
   "difficulty": "Advance",
   "time": "60 minutes",
@@ -8,11 +8,13 @@
     "steps": [
       {
         "title": "Task 1 - Output env",
-        "text": "1_task.md"
+        "text": "1_task.md",
+        "verify": "1_verify.sh"
       },
       {
         "title": "Task 2 - Extract app.js",
-        "text": "2_task.md"
+        "text": "2_task.md",
+        "verify": "2_verify.sh"
       }
     ],
     "intro": {
