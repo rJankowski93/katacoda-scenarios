@@ -1,1 +1,1 @@
-grep /root/app.js -ie 'katacoda'
+kubectl get pods | grep nginx
