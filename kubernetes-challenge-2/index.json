@@ -18,11 +18,6 @@
         "title": "Zadanie 3",
         "text": "3_task.md",
         "verify": "3_verify.sh"
-      },
-      {
-        "title": "Zadanie 4",
-        "text": "4_task.md",
-        "verify": "4_verify.sh"
       }
     ],
     "intro": {
