@@ -1,1 +1,1 @@
-$  [3 -lt 6]
+grep /root/app.js -ie 'katacoda'
