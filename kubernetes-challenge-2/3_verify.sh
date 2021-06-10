@@ -1,1 +1,1 @@
-kubectl get pod my-pod -oyaml | grep 'name: new'
+kubectl get pod new -oyaml | grep 'name: new'
